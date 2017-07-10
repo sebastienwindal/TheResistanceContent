@@ -4,7 +4,8 @@
     "type" : "article",
     "article": {
       "title" : "Who is behind The Resistance?",
-      "content_markdown": "We are a group of people who care deeply about our country. We are deeply concerned about the current direction of our government and want to help to steer it back on track."
+      "excerpt_markdown": "We are a group of people who care deeply about our country. We are deeply concerned about the current direction of our government and want to help to steer it back on track.",
+      "can_fax" : false
     }
   },
   {
@@ -12,7 +13,8 @@
     "type" : "article",
     "article": {
       "title" : "Does faxing your Representatives work?",
-      "content_markdown": "We are a group of people who care deeply about our country. We are deeply concerned about the current direction of our government and want to help to steer it back on track."
+      "excerpt_markdown": "We are a group of people who care deeply about our country. We are deeply concerned about the current direction of our government and want to help to steer it back on track.",
+      "can_fax" : false
     }
   },
   {
@@ -30,7 +32,8 @@
       "title" : "Crude Tweet by Trump Rebuked on Capitol Hill and Beyond",
       "excerpt_markdown" : "President Trump taunted the MSNBC host Mika Brzezinski by claiming that she had been “bleeding badly from a face-lift” at his resort in Florida this winter. Many Republican lawmakers publicly chastised the president as the backlash revived concerns about his habit of demeaning women.",
       "content_markdown" : "President Trump lashed out Thursday at the appearance and intellect of Mika Brzezinski, a co-host of MSNBC’s “Morning Joe,” drawing condemnation from his fellow Republicans and reigniting the controversy over his attitudes toward women that nearly derailed his candidacy last year.\n\nMr. Trump’s invective threatened to further erode his support from Republican women and independents, both among voters and on Capitol Hill, where he needs negotiating leverage for the stalled Senate health care bill.\n\nThe president described Ms. Brzezinski as “low I.Q. Crazy Mika” and claimed in a series of Twitter posts that she had been “bleeding badly from a face-lift” during a social gathering at Mr. Trump’s resort in Florida around New Year’s Eve. The White House did not explain what had prompted the outburst, but a spokeswoman said Ms. Brzezinski deserved a rebuke because of her show’s harsh stance on Mr. Trump.\n\nRead more here: [https://www.nytimes.com/2017/06/29/business/media/trump-mika-brzezinski-facelift.html](https://www.nytimes.com/2017/06/29/business/media/trump-mika-brzezinski-facelift.html)",
-      "message_template" : "The President and his demeaning remarks are disturbing and absolutely beneath the office of the President. They are an embarrassment to our great country and a significant national security concern."
+      "message_template" : "The President and his demeaning remarks are disturbing and absolutely beneath the office of the President. They are an embarrassment to our great country and a significant national security concern.",
+      "can_fax" : true
     }
   },
   {
@@ -40,7 +43,8 @@
       "title": "Interior Secretary Zinke Signs Alaska Oil-Drilling Order",
       "excerpt_markdown": "Interior Secretary Ryan Zinke has signed an order to “jump-start Alaskan energy”—meaning, in this case, to drill for more oil.",
       "content_markdown": "The order pertains to two places: the National Petroleum Reserve–Alaska (NPR-A), the largest block of federally managed land in the United States, and the coastal region of the Alaskan National Wildlife Refuge (ANWR), the so-called “1002 area.” It calls for a “lawful review and development of a revised Integrated Activity Plan” aimed toward increased petroleum production from these lands, Zinke said in a statement. The move will reassess the current management plan, and it calls for an update to estimates about quantities of oil beneath the ground within three weeks. \n\nAttempts to drill in ANWR have been repeatedly defeated in Congress and face stiff opposition from Native Alaskan groups. The announcement was decried by environmental groups. Kristen Miller of the Alaska Wilderness League told the Associated Press that Zinke's order upsets a management plan that the Interior Department spent years creating with tribes, local governments, the state and others.   Read more here: [http://www.newsweek.com/climate-change-oil-drilling-alaska-zinke-619240](http://www.newsweek.com/climate-change-oil-drilling-alaska-zinke-619240)",
-      "message_template": "I oppose in the strongest terms possible the move by Interior Secretary Zinke to begin new drilling in Alaskan National Wildlife Refuge."
+      "message_template": "I oppose in the strongest terms possible the move by Interior Secretary Zinke to begin new drilling in Alaskan National Wildlife Refuge.",
+      "can_fax" : true
     }
   },
   {
@@ -50,7 +54,8 @@
       "title" : "Proposed Senate Health Care Bill to leave 22M more people without insurance",
       "excerpt_markdown" : "Along with the Joint Committee on Taxation, the CBO audit of the Senate’s health care bill determined that 22 million people would be uninsured by 2026 should the legislation be enacted.",
       "content_markdown" : "The CBO released its cost estimate for the Senate’s ObamaCare replacement plan earlier this week.   The announcement came after some GOP senators expressed opposition to the bill in its current form.\n\nSome senators warned that they wouldn’t push for a vote on the health care legislation — dubbed the “Better Care Reconciliation Act of 2017” — until the CBO’s audit was released.\n\nAlong with the Joint Committee on Taxation, the CBO audit of the Senate’s health care bill determined that 22 million people would be uninsured by 2026 should the legislation be enacted.\n\n The figure may further complicate Senate GOP leaders' plans to pass their bill this week. It's barely an improvement upon the health care bill that passed the House — which would have resulted in 23 million more uninsured.  Read more here: [http://www.foxnews.com/politics/2017/06/28/cbo-score-senate-health-care-bill-what-does-it-mean.html](http://www.foxnews.com/politics/2017/06/28/cbo-score-senate-health-care-bill-what-does-it-mean.html)",
-      "message_template" : "Please do everything in your power to strengthen The ACA (Obamacare) and to make sure that the cruel proposed Republican Health Law never passes."
+      "message_template" : "Please do everything in your power to strengthen The ACA (Obamacare) and to make sure that the cruel proposed Republican Health Law never passes.",
+      "can_fax" : true
     }
   }
 ]
