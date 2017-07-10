@@ -1,10 +1,20 @@
 [
   {
+    "id" : "qrox8m21w9",
+    "type" : "tip_jar",
+    "tip_jar": {
+      "title" : "Support The Resistance",
+      "content": "We are running up a big fax bill! Contribute to help us pay for this service?",
+      "iap_product_ids" : "100005,100025,100100"
+    }
+  },
+  {
     "id" : "snwiwke1jp",
     "type" : "article",
     "article": {
       "title" : "Who is behind The Resistance?",
       "excerpt_markdown": "We are a group of people who care deeply about our country. We are deeply concerned about the current direction of our government and want to help to steer it back on track.",
+      "content_markdown" : "YOYO!!",
       "can_fax" : false
     }
   },
@@ -15,14 +25,6 @@
       "title" : "Does faxing your Representatives work?",
       "excerpt_markdown": "We are a group of people who care deeply about our country. We are deeply concerned about the current direction of our government and want to help to steer it back on track.",
       "can_fax" : false
-    }
-  },
-  {
-    "id" : "qrox8m21w9",
-    "type" : "tip_jar",
-    "tip_jar": {
-      "title" : "We are running up a big fax bill! Contribute $5 to help us pay for this service?",
-      "amount" : 5
     }
   },
   {
